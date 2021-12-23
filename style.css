@@ -1,0 +1,110 @@
+body{
+position: absolute;
+width: 1366px;
+height: 1024px;
+left: 0px;
+top: 0px;
+background: #2CB3F3;
+}
+.borda{
+position: absolute;
+width: 880px;
+height: 616px;
+left: 243px;
+top: 245px;
+background: #FFFFFF;
+border-radius: 100px 100px 0px 0px;
+}
+.texto1{
+position: absolute;
+width: 1056px;
+height: 132px;
+left: -103px;
+top: -250px;
+font-weight: 500;
+font-size: 70px;
+line-height: 105px;
+text-align: center;
+color: #000000;
+}
+.texto2{
+     position: absolute;
+     width: 1005px;
+     height: 10px;
+     left: -90px;
+     top: -140px;
+     font-weight: 400;
+     font-size: 40px;
+     line-height: 105px;
+     text-align: center;
+     color: #000000;
+}
+footer{
+    position: absolute;
+width: 220px;
+height: 70px;
+left: 573px;
+top: 885px;
+background: #55A603;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+button{
+     position: absolute;
+     width: 220px;
+     height: 70px;
+     left: 573px;
+     top: 885px;
+     color: white;
+}
+main{
+position: absolute;
+width: 692px;
+height: 500px;
+left: 337px;
+top: 309px;
+background: #FFE1C9;
+border-radius: 55%
+}
+.bola1{
+     position: absolute;
+     width: 55.7px;
+     height: 55.7px;
+     left: 515.39px;
+     top: 100px;
+     background: black;
+     border-radius: 55%
+}
+.bola2{
+      position: absolute;
+     width: 55.7px;
+     height: 55.7px;
+     left: 125.46px;
+     top: 100px;
+     background: black;
+     border-radius: 55%
+
+}
+.formulario1{
+position: absolute;
+width: 373.96px;
+height: 63.65px;
+left: 176.29px;
+top: 250px;
+background: #FFFFFF;
+border: 3px solid #000000;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.formulario2{
+     position: absolute;
+     width: 373.96px;
+     height: 63.65px;
+     left: 176.29px;
+     top: 314px;
+     background: #FFFFFF;
+     border: 3px solid #000000;
+     box-sizing: border-box;
+     border-radius: 5px;
+}
+
